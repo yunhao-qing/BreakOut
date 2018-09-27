@@ -1,0 +1,21 @@
+I really like the Vortex variant since I love circles and I think the circular design is very elegant.
+I want to design 3 different levels in my games.
+In the first level, there are more green blocks which is going to help the players since green blocks give out power-ups.
+Level1
+GRRRG
+GGBGG
+GGGGG
+In the second level, there are more blue blocks. The speed of the ball is increased.
+Level2
+BRRRB
+BBBBB
+GBBBG
+In the third level, there are more red blocks. The speed of the ball is further increased.
+Level3
+BRRRB
+BRRRB
+GRRRG
+I will create 3 types of blocks. They are red, green, blue blocks. The red blocks are cleared after one hit, while the green blocks give out power-ups(randomly from the 3 different types of power-ups I suggested later) and the blue ones are cleared after two hit and give triple awards compare to the red ones.
+I want to create 3 different types of power-ups, making the paddle longer, giving the player one extra life, giving the player one more bouncing ball.
+I think implementing cheat codes is not very difficult and I plan to implement all the cheat codes suggested.('When the player presses a numeric key (i.e., 1-9), clear the current level and jump to the level corresponding to the number pressed, when the player presses the 'L' key, add additional lives to the player, or when the player presses the 'R' key, resets the ball and paddle to their starting position.')
+I am interested in doing the Circus Variant after finishing the basic one and I want to make the seesaw paddle moving constantly instead of only moving while it is hitted.
